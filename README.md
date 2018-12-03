@@ -10,6 +10,7 @@ We are thinking of how to increase customer retention using data science, or in 
 * Time Period: 1 month
 * Geography: 1 Region
 * Features to predict Churn: 19 variables
+* Data source: Kaggle
 ## Model Building
 * K-NN
 * Decision Tree
